@@ -1,0 +1,9 @@
+{
+  "appId": "com.mockworld.app",
+  "appName": "Mock World",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

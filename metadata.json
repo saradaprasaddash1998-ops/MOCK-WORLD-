@@ -1,0 +1,7 @@
+{
+  "name": "Mock World",
+  "description": "Odisha's No.1 Platform for Mock Tests - Android optimized app for OSSSC, OSSC, and competitive examinations with test engine, practice mocks, and PDF courses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
